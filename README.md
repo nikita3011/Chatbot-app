@@ -38,7 +38,6 @@ Users can join chat rooms, send messages, filter bad words, and share their loca
 - Enter your name and room on the homepage.
 - Chat with others in the same room.
 - Share your location if you want.
-- 
 ***
 
 ## Folder Structure
