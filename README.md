@@ -1,4 +1,4 @@
-# Chatbot App
+# Chatbox-Node
 
 A simple real-time chat app built with Node.js, Express, and Socket.io.  
 Users can join chat rooms, send messages, filter bad words, and share their location.
